@@ -1,0 +1,40 @@
+/* EXAMPLE-1 */
+.container {
+  width: 500px;
+  height: 200px;
+  border: 1px solid black;
+}
+
+.center-block {
+  width: 200px;
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid red;
+}
+
+/* EXAMPLE-2 */
+.container2 {
+  width: 500px;
+  height: 200px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.center-inline-block {
+  display: inline-block;
+  border: 1px solid purple;
+}
+
+/* EXAMPLE-3 */
+.container3 {
+  width: 80%;
+  height: 200px;
+  border: 1px solid black;
+}
+
+.center-responsive-width {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid blue;
+}
